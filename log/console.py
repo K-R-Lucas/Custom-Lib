@@ -22,6 +22,10 @@ class LiveLogger:
         now = datetime.now()
         self.info(f"Started log: {now.isoformat()}\n")
     
+    def stop_and_close(self):
+        self.info("Closing as expected...")
+        self.stream.close()
+    
     def add_to_log(self, msg: str):
         if self.use_file:
             if not msg.endswith('\n'):

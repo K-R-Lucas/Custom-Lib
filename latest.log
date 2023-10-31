@@ -1,5 +1,42 @@
-[ INFO ] +406ms Started log: 2023-10-31T10:28:02.930204
-[ INFO ] +406ms Augh
-[ WARN ] +406ms Augh?
-[ HUH? ] +406ms Augh!
- 
+[ INFO ] +297ms Started log: 2023-11-01T00:31:37.605892
+[ INFO ] +297ms Augh
+[ WARN ] +297ms Augh?
+[ HUH? ] +297ms Augh!
+[ INFO ] +297ms 
+[ INFO ] +781ms Augh
+[ WARN ] +781ms Augh?
+[ HUH? ] +781ms Augh!
+[ INFO ] +781ms 
+[ INFO ] +1250ms Augh
+[ WARN ] +1250ms Augh?
+[ HUH? ] +1250ms Augh!
+[ INFO ] +1250ms 
+[ INFO ] +1703ms Augh
+[ WARN ] +1703ms Augh?
+[ HUH? ] +1703ms Augh!
+[ INFO ] +1703ms 
+[ INFO ] +2188ms Augh
+[ WARN ] +2188ms Augh?
+[ HUH? ] +2188ms Augh!
+[ INFO ] +2188ms 
+[ INFO ] +2672ms Augh
+[ WARN ] +2672ms Augh?
+[ HUH? ] +2672ms Augh!
+[ INFO ] +2672ms 
+[ INFO ] +3172ms Augh
+[ WARN ] +3172ms Augh?
+[ HUH? ] +3172ms Augh!
+[ INFO ] +3172ms 
+[ INFO ] +3641ms Augh
+[ WARN ] +3641ms Augh?
+[ HUH? ] +3641ms Augh!
+[ INFO ] +3641ms 
+[ INFO ] +4125ms Augh
+[ WARN ] +4125ms Augh?
+[ HUH? ] +4125ms Augh!
+[ INFO ] +4125ms 
+[ INFO ] +4547ms Augh
+[ WARN ] +4547ms Augh?
+[ HUH? ] +4547ms Augh!
+[ INFO ] +4547ms 
+[ INFO ] +5000ms Closing as expected...
